@@ -54,6 +54,7 @@
     <PostFlow name="PostFlow">
         <Request>
         </Request>
+        <Response>
         </Response>
     </PostFlow>
     <HTTPTargetConnection>
